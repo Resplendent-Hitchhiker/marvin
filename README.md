@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://pi.dev">
-    <img src="https://pi.dev/logo.svg" alt="pi logo" width="128">
+    <img src="https://pi.dev/logo.svg" alt="Marvin logo" width="128">
   </a>
 </p>
 <p align="center">
@@ -17,7 +17,7 @@
 
 ---
 
-# Pi Monorepo
+# Marvin Monorepo
 
 > **Looking for the pi coding agent?** See **[packages/coding-agent](packages/coding-agent)** for installation and usage.
 
